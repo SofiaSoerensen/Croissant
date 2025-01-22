@@ -1,3 +1,16 @@
-h1 {
+h1,
+h2,
+p {
   text-align: center;
+}
+img {
+  max-width: 700px;
+  display: block;
+  margin: auto;
+  border-radius: 8px;
+}
+
+.links {
+  text-align: center;
+  margin-top: 20px;
 }
