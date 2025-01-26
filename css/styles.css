@@ -18,3 +18,11 @@ img {
 body {
   background-color: darkseagreen;
 }
+
+a {
+  text-decoration: none;
+  background-color: beige;
+  padding: 10px;
+  border-radius: 10px;
+  color: black;
+}
